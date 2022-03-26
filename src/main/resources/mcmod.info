@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ahflipping",
+  "name": "AhFlipping",
+  "description": "Mod that helps you with flipping..",
+  "version": "1.8.9-0.0.3",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skw972"],
+  "credits": "The Forge and FML guys, for making this example and also csjh for making his Python SkyblockSniper bot! It helped me a lot.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
